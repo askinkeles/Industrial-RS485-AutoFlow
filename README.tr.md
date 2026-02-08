@@ -1,6 +1,6 @@
 # 🏗️ Endüstriyel RS485 Otomatik Akış Denetimli İletişim Modülü
 
-[![English](https://img.shields.io/badge/Language-EN-red)](README_EN.md)
+[![English](https://img.shields.io/badge/Language-EN-red)](README.md)
 [![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-orange)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](#)
 
