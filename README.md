@@ -1,8 +1,8 @@
 # 🏗️ Industrial RS485 Auto-Flow Communication Module
 
-![Language](https://img.shields.io/badge/Language-TR%20%7C%20EN-blue)
-![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Türkçe](https://img.shields.io/badge/Language-TR-blue)](README.tr.md)
+[![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-orange)](#)
+[![License](https://img.shields.io/badge/License-MIT-green)](#)
 
 This project is a hardware-managed RS485 transceiver module that eliminates the need for software-based flow control (DE/RE pin management). It features automatic direction sensing and is fully ruggedized for industrial environments with high electrical noise and surge risks.
 
