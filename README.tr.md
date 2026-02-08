@@ -1,8 +1,8 @@
 # 🏗️ Endüstriyel RS485 Otomatik Akış Denetimli İletişim Modülü
 
-![Dil](https://img.shields.io/badge/Dil-TR%20%7C%20EN-blue)
-![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-orange)
-![Lisans](https://img.shields.io/badge/Lisans-MIT-green)
+[![English](https://img.shields.io/badge/Language-EN-red)](README_EN.md)
+[![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-orange)](#)
+[![License](https://img.shields.io/badge/License-MIT-green)](#)
 
 Bu proje; mikroişlemci tarafında herhangi bir yazılımsal akış denetimi (DE/RE pini yönetimi) gerektirmeyen, donanımsal olarak otomatik yön tayini yapan ve endüstriyel sahalardaki zorlu elektriksel koşullara karşı tam zırhlandırılmış bir RS485 alıcı-verici modülüdür.
 
